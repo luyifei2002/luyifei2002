@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luyifei2002
 - 👀 I’m interested in music game.
-- 🌱 I’m currently learning java and react.
-- 💞️ I’m looking to collaborate on java;
+- 🌱 I’m currently learning LLM.
 - 📫 How to reach me ? email: luyifei2002@126.com
 
 <!---
